@@ -42,10 +42,10 @@ function seatBars(input, dropdown) {
 
 
 
-// calling our function on pageload
+// 1. calling our function on pageload
 // seatBars(selectKey, selectText)
 
-// running seatBars function on new dropdown input selected
+// 2. running seatBars function on new dropdown input selected
 // selectTag.addEventListener('input', event => { 
 //   // updating the dropdown value input
 //   selectKey = selectTag.value
