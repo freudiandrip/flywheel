@@ -1,6 +1,5 @@
 //-----------------------------------------------------------------------
 // D3 Script for spin cycle leaderboard rankings
-// SuperHi Unit 4 coursework - Jan 2023
 //-----------------------------------------------------------------------
 // selecting the dropdown, selected option value + text field (corresponding data.js key)
 const selectTag = document.querySelector('select.rank')
